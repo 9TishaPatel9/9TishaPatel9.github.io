@@ -2,9 +2,11 @@
 
 This is my home page! My name is Tisha Patel and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
-### CPSC 120
+## Computer Science Projects
 
-My github page is http://github.com/9TishaPatel9
+My GitHub page is http://github.com/9TishaPatel9.
+
+### CPSC 120
 
 * Lab 2:
     I surprisingly really enjoyed Lab 2 despite it's simpleness. 
