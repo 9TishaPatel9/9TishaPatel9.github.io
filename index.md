@@ -6,7 +6,7 @@ This is my home page! My name is Tisha Patel and I am a student at [Cal State Fu
 
 My github page is http://github.com/9TishaPatel9
 
-* Lab 2
+* Lab 2:
     I surprisingly really enjoyed Lab 2 despite it's simpleness. 
     I think its because it was fun to make kind of silly mad libs out 
     of the main code. Like putting unrealistic nouns and verbs or 
@@ -16,7 +16,7 @@ My github page is http://github.com/9TishaPatel9
     any lab that relies on user input since I like to interact with 
     the computer.
 
-* Lab 4
+* Lab 4:
     I've made a similar secret guessing game from part 2 of this 
     lab in javascript in high school, so maybe that is why I enjoyed 
     figuring it out in C++. Again, I'm quite impartial to any game
@@ -25,7 +25,7 @@ My github page is http://github.com/9TishaPatel9
     nonetheless I did mess around with it for a good 30 minutes, 
     so I most definitely enjoyed it.
 
-* Lab 9
+* Lab 9:
     Lab 9's part 2 was by far my favorite for this semester as 
     it added onto the secret game from Lab 4's part 2. I liked
     specifically how we were required to integrate a second 
